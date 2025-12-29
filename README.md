@@ -8,6 +8,7 @@ Core Java refers to the fundamental concepts of Java programming used to build r
 
 - Java syntax and structure
 
+<<<<<<< HEAD
 - Identifier 
 
 - Datatypes (primitive & non-primitive)
@@ -20,16 +21,67 @@ Core Java refers to the fundamental concepts of Java programming used to build r
         3. Local
 
 - Operators 
+=======
+- Identifiers
 
-### Control Statements :-
+- Data-types<br> (primitive & non-primitive)
 
-Conditional statements (if, if-else, switch)
+- Type-Casting <br>(implicit & explicit)
+>>>>>>> e7c4f270cdb77d3bd037a5a30a5ed61585f19cc0
 
-Looping statements (for, while, do-while)
+- Variables <br>(Instance/ Non-static, Static, Local )
+          
+- Operators <br>
+        - unary <br>
+<!-- <ol>
+    <li> increment
+    <ul>
+        <li>pre increment</li>
+        <li>post increment</li>
+        
+  
+  </ol>
+  <ol>
+          <li> increment
+    <ul>
+              <li>pre increment</li>
+              <li>post increment</li> -->
+        
+   
+  </ol>
 
-Jump statements (break, continue, return)
+  <ol type="A">
+       <u> <b><li>Primitive-</li></b></u>
+        <ul<ol>
+    <li> increment
+    <ul>
+        <li>pre increment</li>
+        <li>post increment</li>
+        
+  
+  </ol> >
+            <li>int</li>
+            <li>float</li>
 
-Object-Oriented Programming (OOP) Concepts
+        </ul>
+        <u> <b><li> Non-Primitive-</li></b></u>
+        <ul>
+            <li>string</li>
+            <li>arrays</li>
+            <li>interfaces</li>
+            <li>classes</li>
+        </ul>
+    </ol>
+  
+###  Control Statements :-
+
+Conditional statements <br>(if, if-else, switch)
+
+Looping statements<br> (for, while, do-while)
+
+Jump statements <br>(break, continue, return)
+
+### Object-Oriented Programming (OOP) Concepts
 
 Classes and objects
 
