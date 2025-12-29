@@ -10,21 +10,63 @@ Core Java refers to the fundamental concepts of Java programming used to build r
 
 - Identifiers
 
-- Data-types (primitive & non-primitive)
+- Data-types<br> (primitive & non-primitive)
 
-- Variables
- 
-- Operators
+- Type-Casting <br>(implicit & explicit)
 
-### Control Statements :-
+- Variables <br>(Instance/ Non-static, Static, Local )
+          
+- Operators <br>
+        - unary <br>
+<!-- <ol>
+    <li> increment
+    <ul>
+        <li>pre increment</li>
+        <li>post increment</li>
+        
+  
+  </ol>
+  <ol>
+          <li> increment
+    <ul>
+              <li>pre increment</li>
+              <li>post increment</li> -->
+        
+   
+  </ol>
 
-Conditional statements (if, if-else, switch)
+  <ol type="A">
+       <u> <b><li>Primitive-</li></b></u>
+        <ul<ol>
+    <li> increment
+    <ul>
+        <li>pre increment</li>
+        <li>post increment</li>
+        
+  
+  </ol> >
+            <li>int</li>
+            <li>float</li>
 
-Looping statements (for, while, do-while)
+        </ul>
+        <u> <b><li> Non-Primitive-</li></b></u>
+        <ul>
+            <li>string</li>
+            <li>arrays</li>
+            <li>interfaces</li>
+            <li>classes</li>
+        </ul>
+    </ol>
+  
+###  Control Statements :-
 
-Jump statements (break, continue, return)
+Conditional statements <br>(if, if-else, switch)
 
-Object-Oriented Programming (OOP) Concepts
+Looping statements<br> (for, while, do-while)
+
+Jump statements <br>(break, continue, return)
+
+### Object-Oriented Programming (OOP) Concepts
 
 Classes and objects
 
