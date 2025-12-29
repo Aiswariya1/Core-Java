@@ -1,0 +1,10 @@
+  // it can be declared inside the class, outside any method, block or constructor.
+
+class Demo{
+     static int x=10; // static variable
+    public static void main(String[]args){
+         System.out.println(Demo.x);
+         System.out.println(Demo.y);
+    }
+    static int y=20;
+}
