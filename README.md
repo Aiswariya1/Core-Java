@@ -8,11 +8,13 @@ Core Java refers to the fundamental concepts of Java programming used to build r
 
 - Java syntax and structure
 
-- Keywords, identifiers, and comments
+- Identifiers
 
-- Data types (primitive & non-primitive)
+- Data-types (primitive & non-primitive)
 
-- Variables and operators
+- Variables
+ 
+- Operators
 
 ### Control Statements :-
 
