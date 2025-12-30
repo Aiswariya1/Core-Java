@@ -4,6 +4,6 @@
     int num1;
     public static void main (String[]args){
         Test t1=new Test();
-        System.out.println (t1.num1);
+        System.out.println (t1.num1); //0 (int)
     }
  }

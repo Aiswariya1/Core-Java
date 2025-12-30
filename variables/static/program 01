@@ -3,8 +3,8 @@
 class Demo{
      static int x=10; // static variable
     public static void main(String[]args){
-         System.out.println(Demo.x);
-         System.out.println(Demo.y);
+         System.out.println(Demo.x); //10
+         System.out.println(Demo.y); //20
     }
     static int y=20;
 }

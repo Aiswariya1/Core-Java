@@ -3,9 +3,8 @@
 class Test{
     public static void main(String[]args){
        int x=10;
-       byte b=x;
-       //convert to byte
-       byte b=(byte)x;
-        System.out.println(b);
+       //explicit type casting
+       byte b=(byte) x;
+        System.out.println(b); //10
     }
 }
