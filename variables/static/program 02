@@ -8,11 +8,11 @@
          System.out.println(x); //10
 
       //by classname
-      System.out.println(Test.x); //10
+         System.out.println(Test.x); //10
 
       //by object reference
-      Test t1=new Test();
-      System.out.println(t1.x); //10
+         Test t1=new Test();
+         System.out.println(t1.x); //10
 
     }
 }
