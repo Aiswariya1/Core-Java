@@ -5,7 +5,8 @@
     public static void main(String[]args){
         int num=20;
 
-        System.out.println(num); //10
-        System.out.println(Test.num); //10
+        System.out.println(num); //20  (local variable)
+
+        System.out.println(Test.num); //10  (static variable)
     }
  }
