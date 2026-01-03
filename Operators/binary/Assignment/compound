@@ -1,1 +1,23 @@
-n
+//program
+
+class Test{
+    public static void main(String[]args){
+       int a = 10;
+
+        a += 5;   //15
+        System.out.println(a);
+
+        a -= 3;   // 12
+        System.out.println(a);
+
+        a *= 2;   //24
+        System.out.println(a);
+
+        a /= 4;   //6
+        System.out.println(a);
+
+        a %= 3;   //0
+        System.out.println(a);
+    }
+}
+    
