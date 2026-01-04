@@ -1,0 +1,22 @@
+
+//<--  (Condition ? Statement 1: Statement 2;)  -->
+// True- Statement 1.
+// False- Statement 2.
+
+//ex-
+
+class Test{
+    public static void main(String[]args){
+        int x = (10<20)? 30:40;
+        System.out.println(x); //30(true)
+
+        int x = (10>20)? 30:40;
+        System.out.println(x); //40(false)
+
+        int x=(10>20)? 
+                     ((30>40)? 50:60): 
+                     ((70<80)? 90:100);
+
+        System.out.println(x); //90
+    }
+}
