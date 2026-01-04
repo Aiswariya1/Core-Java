@@ -17,7 +17,9 @@ Core Java refers to the fundamental concepts of Java programming used to build r
 - Variables (Instance/ Non-static, Static, Local )
           
 - Operators <br>
-        - unary <br>
+(i.Unary-Increment(pre & post), Decrement(pre & post))<br>
+(ii.Binary-Arithmetic,Relational,Bitwise,Equality,Assignment,Logical)<br>
+(iii.Ternary)
 
 ###  Control Statements :-
 
