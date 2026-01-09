@@ -10,7 +10,7 @@ class Test{
 
 //Example-02
    
-class Test{
+class Demo{
     public static void main(String[] args) {
     int x=15;
     int y=--x;
@@ -21,7 +21,7 @@ class Test{
 
 //Example-03
 
-class Test{
+class A{
     public static void main(String[] args) {
     int x=8;
     int y=--x + --x;
