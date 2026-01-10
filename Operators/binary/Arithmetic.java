@@ -13,7 +13,7 @@ class Test{
 }
 
 // program-02
-class Test{
+class Demo{
     public static void main(String[] args) { 
         byte b1=127;
         byte b=1;
