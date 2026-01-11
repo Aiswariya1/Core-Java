@@ -17,7 +17,7 @@ class Test{
 
 //program
 
-class Test{
+class Demo{
     public static void main(String[] args) {
         System.out.println(true | true); //true
         System.out.println(true | false); // true
@@ -30,7 +30,7 @@ class Test{
 
 //program
 
-class Test{
+class Text{
     public static void main(String[] args) {
         System.out.println(true ^ true); //false
         System.out.println(true ^ false); //true
