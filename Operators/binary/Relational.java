@@ -9,7 +9,7 @@
            System.out.println(10<10.2); //true
             System.out.println('a'>'b'); //false
              System.out.println('a'>10); //true
-              System.out.println(true<false); //ce
-               System.out.println("abc"<"def"); //ce
+             // System.out.println(true < false); //ce
+               // System.out.println("abc" < "def"); //ce
     }
 }

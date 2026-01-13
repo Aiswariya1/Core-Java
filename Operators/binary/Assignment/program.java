@@ -1,7 +1,7 @@
 //program
  //example of chained + compound assingnment.
 
-class Test{
+class Test1{
     public static void main(String[]args){
     int a,b,c,d;
     a = b = c = d=20;

@@ -13,9 +13,9 @@ class Test{
         int x = (10>20)? 30:40;
         System.out.println(x); //40(false)
 
-        int x=(10>20)? 
+        int x =(10>20)? 
                      ((30>40)? 50:60): 
-                     ((70<80)? 90:100);
+                     ((70<80)? 90:100 );
 
         System.out.println(x); //90
     }
@@ -23,7 +23,7 @@ class Test{
 
 
 //ex-2
-class Test{
+class Test1{
     public static void main(String[]args){
         int a = 10, b = 20, c = 15;
 

@@ -10,7 +10,7 @@ class Test{
 
 //Example-02
    
-class Test{
+class Test1{
     public static void main(String[] args) {
     int x=10;
     int y=++x;
@@ -21,7 +21,7 @@ class Test{
 
 //Example-03
 
-class Test{
+class Test2{
     public static void main(String[] args) {
     int x=3;
     int y=++x + ++x;
@@ -32,7 +32,7 @@ class Test{
 
 //Example-04
 
-class Test{
+class Test3{
     public static void main(String[] args) {
     double d=1.5;
     ++d;
@@ -42,7 +42,7 @@ class Test{
 
 //Example-05
 
-class Test{
+class Test4{
     public static void main(String[] args) {
     byte b=127;
     ++b;
