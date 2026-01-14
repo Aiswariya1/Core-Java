@@ -12,7 +12,7 @@ class Test{
     }
 }
 
-// program-02
+//program-02
 class Demo{
     public static void main(String[] args) { 
         byte b1=127;
@@ -20,3 +20,4 @@ class Demo{
         System.out.println(b1+b); //128 (out of range stored in int)
     }
 }
+
