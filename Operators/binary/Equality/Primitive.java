@@ -35,3 +35,13 @@ class Test1{
     }
 }
 
+//ex-4
+class Test2{
+    public static void main(String[] args) {
+        char ch1 ='a';
+        char ch2 ='A';
+        System.out.println(ch1==ch2); //false
+        char ch3 ='a';
+        System.out.println(ch1==ch3); //true
+    }
+}
