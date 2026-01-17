@@ -15,3 +15,18 @@ public class Logical{
     }
   
 
+// 2. Logical OR(||)
+// At least one condition must be true
+
+public class LogicalOR{
+    public static void main(String[] args) {
+        int a =10;
+        int b =5;
+    
+    if(a > b || b > 10 ){
+        System.out.println(1);
+    } else{
+        System.out.println(0);
+     }
+  } 
+    }
