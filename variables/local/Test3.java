@@ -1,6 +1,6 @@
    //Case-01   (Temporary variable-Destroyed after print)
     
-class Test{
+class Test3 {
     public static void main(String[]args){
         if (true){
             int x=10;
@@ -9,14 +9,15 @@ class Test{
     }
 }
 
+//Case-2  (Destroyed before print)
 
-    //Case-2  (Destroyed before print)
-
-class Test{
-    public static void main(String[]args){
+/* 
+  class Test4 {
+     public static void main(String[]args){
         if (true){
             int x=10;
         }
         System.out.println(x); //compile-time error
     }
-}
+}  
+ */
