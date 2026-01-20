@@ -1,5 +1,5 @@
 //class implicit {
-    class Test{
+    class Implicit{
     public static void main(String[]args){
         char ch='a';
         int x= ch; //implicit casting
