@@ -5,25 +5,25 @@
 
 //ex-
 
-class Test{
+class Ternary{
     public static void main(String[]args){
         int x = (10<20)? 30:40;
         System.out.println(x); //30(true)
 
-        int x = (10>20)? 30:40;
-        System.out.println(x); //40(false)
+        int y = (10>20)? 30:40;
+        System.out.println(y); //40(false)
 
-        int x =(10>20)? 
+        int z =(10>20)? 
                      ((30>40)? 50:60): 
                      ((70<80)? 90:100 );
 
-        System.out.println(x); //90
+        System.out.println(z); //90
     }
 }
 
 
 //ex-2
-class Test1{
+class B{
     public static void main(String[]args){
         int a = 10, b = 20, c = 15;
 
