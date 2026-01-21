@@ -23,7 +23,7 @@ class Ternary{
 
 
 //ex-2
-class B{
+class B {
     public static void main(String[]args){
         int a = 10, b = 20, c = 15;
 
