@@ -35,7 +35,7 @@ System.out.println(c); //18
 
 // program-04
 
-class Test{
+class A4{
 public static void main(String[] args) {
 int a = 5;
 int b = a++ + ++a + a++ + ++a + a++ + ++a;
@@ -46,7 +46,7 @@ System.out.println(b); //48
 
 // program-05
 
-class Test{
+class A5{
 public static void main(String[] args) {
 int x = 1;
 int y = 2;
