@@ -1,6 +1,6 @@
 // program-01
 
-class Test{
+class A1{
 public static void main(String[] args) {
 int p = 10;
 int q = ++p + p++ + ++p;
@@ -11,7 +11,7 @@ System.out.println(q); //35
 
 // program-02
 
-class Test{
+class A2{
 public static void main(String[] args) {
 int a = 7;
 int b = a++ + a++ + ++a + ++a + a++;
@@ -22,7 +22,7 @@ System.out.println(b); //47
 
 // program-03
 
-class Test{
+class A3{
 public static void main(String[] args) {
 int a = 2;
 int b = 3;
