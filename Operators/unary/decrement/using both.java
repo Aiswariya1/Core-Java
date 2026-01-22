@@ -37,7 +37,7 @@ System.out.println(result); //24
 
 // program-04
 
-class Test{
+class B4{
 public static void main(String[] args) {
 int a = 14;
 int b = a-- + --a + a-- + --a + a-- + --a;
