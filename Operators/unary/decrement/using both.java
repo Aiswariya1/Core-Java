@@ -11,7 +11,7 @@ System.out.println(b); //32
 
 // program-02
 
-class Test{
+class B1{
 public static void main(String[] args) {
 int x = 20;
 int y = --x + x-- + --x + x-- + --x;
