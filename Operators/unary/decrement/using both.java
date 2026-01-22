@@ -48,7 +48,7 @@ System.out.println(b); //66
 
 // program-05
 
-class Test{
+class B5{
 public static void main(String[] args) {
 int x = 10;
 int y = 5;
