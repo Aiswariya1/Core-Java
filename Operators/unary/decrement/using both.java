@@ -22,7 +22,7 @@ System.out.println(y); //87
 
 // program-03
 
-class Test{
+class B3{
 public static void main(String[] args) {
 int x = 6;
 int y = 5;
