@@ -1,6 +1,6 @@
 //program-01
 
-class Test{
+class Arithmetic{
     public static void main(String[] args) {
         int x=10;
         int y=20;
@@ -13,7 +13,7 @@ class Test{
 }
 
 //program-02
-class Demo{
+class Arithmetic1{
     public static void main(String[] args) { 
         byte b1=127;
         byte b=1;
