@@ -30,7 +30,7 @@ class Bitwise1{
 
 //program
 
-class Test1{
+class Bitwise3{
     public static void main(String[] args) {
         System.out.println(true ^ true); //false
         System.out.println(true ^ false); //true
