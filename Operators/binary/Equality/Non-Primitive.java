@@ -1,8 +1,6 @@
 // example-1
 
-package binary.Equality;
-
-class Test{
+class EqualityNonPrimitiv{
     public static void main(String[]args){
 
         Test t1= new Test();

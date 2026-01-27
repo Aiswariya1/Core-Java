@@ -1,8 +1,5 @@
-//Example-1
 
-package binary.Equality;
-
-public class Primitive {
+public class Primitive{
     public static void main(String[]args){
         int x =10;
         int y =20;
@@ -16,7 +13,7 @@ public class Primitive {
 
 //ex-2
 
-class Test{
+class Primitive2{
     public static void main(String[]args){
         double d1 =1.5;
         double d2 =1.5;
@@ -27,7 +24,7 @@ class Test{
 
 //ex-3
 
-class Test1{
+class Primitive3{
     public static void main(String[] args) {
         boolean b1 = true;
         boolean b2 = false;
@@ -36,7 +33,7 @@ class Test1{
 }
 
 //ex-4
-class Test2{
+class Primitive4{
     public static void main(String[] args) {
         char ch1 ='a';
         char ch2 ='A';
