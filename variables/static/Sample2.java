@@ -1,6 +1,6 @@
     // Access it in 3 common ways:-
 
-    class Test{
+    class Sample2{
     static int y=10;
     public static void main(String[]args){
 
@@ -8,11 +8,11 @@
          System.out.println(y); //10
 
       //by classname
-         System.out.println(Test.y); //10
+         System.out.println(Sample2.y); //10
 
       //by object reference
-         Test t1=new Test();
-         System.out.println(t1.y); //10
+         Sample s1=new Sample();
+         System.out.println(s1.y); //10
 
     }
 }
