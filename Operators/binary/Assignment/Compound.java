@@ -1,6 +1,6 @@
 //program
 
-class Demo{
+class Compound{
     public static void main(String[]args){
        int a = 10;
 
