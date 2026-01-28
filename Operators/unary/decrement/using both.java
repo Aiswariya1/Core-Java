@@ -1,6 +1,6 @@
 // program-01
 
-class B {
+class B{
 public static void main(String[] args) {
 int a = 10;
 int b = --a + a-- + --a + a--;
