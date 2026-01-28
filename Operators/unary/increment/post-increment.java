@@ -1,6 +1,6 @@
 //Example-01
 
-class Test{
+class PostIncrement{
     public static void main(String[] args) {
     int x=10;
     x++;
@@ -10,7 +10,7 @@ class Test{
 
 //Example-02
    
-class Test1{
+class PostIncrement1{
     public static void main(String[] args) {
     int x=10;
     int y=x++;
