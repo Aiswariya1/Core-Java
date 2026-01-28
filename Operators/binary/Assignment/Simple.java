@@ -1,6 +1,6 @@
 //program
 
-class Test2{
+class Simple{
     public static void main(String[]args){
         int x;
         x=10; //assigning value 10 to variable x
