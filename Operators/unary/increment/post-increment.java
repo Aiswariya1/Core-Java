@@ -21,7 +21,7 @@ class PostIncrement1{
 
 //Example-03
 
-class Test2{
+class PostIncrement2{
     public static void main(String[] args) {
     int x=3;
     int y=x++ + x++;
@@ -32,7 +32,7 @@ class Test2{
 
 //Example-04
 
-class Test3{
+class PostIncrement3{
     public static void main(String[] args) {
     char ch='a';
     ch++;
