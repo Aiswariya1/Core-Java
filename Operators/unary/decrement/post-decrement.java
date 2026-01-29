@@ -1,6 +1,6 @@
 //Example-01
 
-class Test{
+class PostDecrement{
     public static void main(String[] args) {
     int x=13;
     x--;
@@ -10,7 +10,7 @@ class Test{
 
 //Example-02
    
-class Demo{
+class PostDecrement1{
     public static void main(String[] args) {
     int x=15;
     int y=x--;
@@ -21,7 +21,7 @@ class Demo{
 
 //Example-03
 
-class A{
+class PostDecrement2{
     public static void main(String[] args) {
     int x=8;
     int y=x-- + x--;
@@ -32,7 +32,7 @@ class A{
 
 //Example-04
 
-class Test{
+class PostDecrement3{
     public static void main(String[] args) {
     char ch='d';
     ch--;
