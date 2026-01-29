@@ -4,7 +4,7 @@
 
 //program
 
-class Bitwise{
+class BitwiseAnd{
     public static void main(String[] args) {
         System.out.println(true & true); //true
         System.out.println(true & false); //false
@@ -17,7 +17,7 @@ class Bitwise{
 
 //program
 
-class Bitwise1{
+class BitwiseOr{
     public static void main(String[] args) {
         System.out.println(true | true); //true
         System.out.println(true | false); // true
@@ -30,7 +30,7 @@ class Bitwise1{
 
 //program
 
-class Bitwise3{
+class BitwiseXor{
     public static void main(String[] args) {
         System.out.println(true ^ true); //false
         System.out.println(true ^ false); //true
