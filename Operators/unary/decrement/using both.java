@@ -22,7 +22,7 @@ System.out.println(y); //87
 
 // program-03
 
-class B3{
+class B2{
 public static void main(String[] args) {
 int x = 6;
 int y = 5;
@@ -37,7 +37,7 @@ System.out.println(result); //24
 
 // program-04
 
-class B4{
+class B3{
 public static void main(String[] args) {
 int a = 14;
 int b = a-- + --a + a-- + --a + a-- + --a;
@@ -48,7 +48,7 @@ System.out.println(b); //66
 
 // program-05
 
-class B5{
+class B4{
 public static void main(String[] args) {
 int x = 10;
 int y = 5;
