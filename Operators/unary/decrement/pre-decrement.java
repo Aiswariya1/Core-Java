@@ -1,6 +1,6 @@
 //Example-01
 
-class Test{
+class PreDecrement{
     public static void main(String[] args) {
     int x=10;
     --x;
@@ -10,7 +10,7 @@ class Test{
 
 //Example-02
    
-class Demo{
+class PreDecrement1{
     public static void main(String[] args) {
     int x=15;
     int y=--x;
@@ -21,7 +21,7 @@ class Demo{
 
 //Example-03
 
-class A{
+class PreDecrement2{
     public static void main(String[] args) {
     int x=8;
     int y=--x + --x;
@@ -32,7 +32,7 @@ class A{
 
 //Example-04
 
-class Test{
+class PreDecrement3{
     public static void main(String[] args) {
     double d=3.5;
     --d;
