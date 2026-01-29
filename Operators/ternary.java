@@ -7,15 +7,21 @@
 
 class Ternary{
     public static void main(String[]args){
-        int x = (10<20)? 30:40;
-        System.out.println(x); //30(true)
+        int a = 10;
+        int b = 20;
 
-        int y = (10>20)? 30:40;
-        System.out.println(y); //40(false)
+        int x = (a<b)? 30:40;
+        System.out.println(x); //30 (true)
 
-        int z =(10>20)? 
-                     ((30>40)? 50:60): 
-                     ((70<80)? 90:100 );
+        int y = (a>b) ? 30:40;
+        System.out.println(y); //40 (false)
+
+        int c = 70;
+        int d = 80;
+
+        int z =(a>b)? 
+                     ((c>d)? 50:60): 
+                     ((c<d)? 90:100 );
 
         System.out.println(z); //90
     }
