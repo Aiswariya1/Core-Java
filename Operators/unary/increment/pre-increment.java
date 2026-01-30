@@ -21,7 +21,7 @@ class PreIncrement1{
 
 //Example-03
 
-class Test2{
+class PreIncrement2{
     public static void main(String[] args) {
     int x=3;
     int y=++x + ++x;
@@ -32,7 +32,7 @@ class Test2{
 
 //Example-04
 
-class Test3{
+class PreIncrement3{
     public static void main(String[] args) {
     double d=1.5;
     ++d;
@@ -42,7 +42,7 @@ class Test3{
 
 //Example-05
 
-class Test4{
+class PreIncrement4{
     public static void main(String[] args) {
     byte b=127;
     ++b;
