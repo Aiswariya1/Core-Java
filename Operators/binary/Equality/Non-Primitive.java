@@ -3,13 +3,13 @@
 class EqualityNonPrimitiv{
     public static void main(String[]args){
 
-        Test t1= new Test();
-        Test t2= new Test();
+        EqualityNonPrimitiv e1= new EqualityNonPrimitiv();
+        EqualityNonPrimitiv e2= new EqualityNonPrimitiv();
 
-        System.out.println(t1==t2); //false
+        System.out.println(e1==e2); //false
 
-        Test t3 =t2;
-        System.out.println(t3==t2); //true
+        EqualityNonPrimitiv e3 =e2;
+        System.out.println(e3==e2); //true
 
     }
 }
