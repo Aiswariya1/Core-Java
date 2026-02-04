@@ -1,4 +1,5 @@
-
+// WAP to check whether a number is a buzz no or not?
+  
 
 public class BuzzNo {
     public static void main(String[] args) {
