@@ -1,5 +1,5 @@
 // WAP to check whether a number is a buzz no or not?
-  
+  //Buzz- Number is divisible by 7 or ends with 7.
 
 public class BuzzNo {
     public static void main(String[] args) {
