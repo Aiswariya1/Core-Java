@@ -1,4 +1,4 @@
-// WAP to check whether the number ends with 5 or not?
+
 
 public class EndsWith5 {
     public static void main(String[]args){
