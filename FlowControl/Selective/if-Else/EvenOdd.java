@@ -1,3 +1,5 @@
+// WAP to check the number is a Even Number or Odd Number?
+
 public class EvenOdd{
     public static void main(String[]args){
         int num = 10;
