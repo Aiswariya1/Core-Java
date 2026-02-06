@@ -5,7 +5,7 @@ public class Calculator {
         int y = 20;
         char op = '+';
 
-        if(op == '7'){
+        if(op == '+'){
             System.out.println("Sum is" + (x+y));
         }
             else if(op == '-'){
