@@ -1,7 +1,6 @@
-
+// WAP to check the number is a Zero, Negative or Positive number?
 
 public class PosNegNo {
-
     public static void main(String[] args) {
 
         int num = -5;
