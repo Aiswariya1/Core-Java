@@ -1,4 +1,4 @@
-// WAP to find the greatest of three numbers using the else-if ladder?
+// WAP to implement a simple calculator using else-if ladder?
 
 public class Calculator {
     public static void main(String[] args) {
