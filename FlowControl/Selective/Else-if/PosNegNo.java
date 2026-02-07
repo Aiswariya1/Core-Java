@@ -1,4 +1,4 @@
-// WAP to check the number is a Zero, Negative or Positive number?
+// WAP to check whether a given number is Negative,Positive or Zero using else-if ladder??
 
 public class PosNegNo {
     public static void main(String[] args) {
