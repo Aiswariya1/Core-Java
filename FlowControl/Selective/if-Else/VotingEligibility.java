@@ -1,4 +1,4 @@
-// 
+// WAP to check whether a person is eligible to vote or not?
 
 public class VotingEligibility {
     public static void main(String[] args) {
