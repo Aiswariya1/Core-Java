@@ -1,6 +1,7 @@
 // WAP to count the digit of a number?
 
  public class CountTheDigit {
+    
     public static void main(String[] args) {
 
         int count = 0;
