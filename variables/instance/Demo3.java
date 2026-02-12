@@ -1,7 +1,6 @@
 // it shares different copy to different objects.
 
-
-   class Demo3 {
+   public class Demo3 {
     int num=10;
     public static void main(String[]args){
         Demo3 t1=new Demo3();
