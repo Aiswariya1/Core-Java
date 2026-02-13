@@ -1,6 +1,6 @@
    //Case-01   (Temporary variable-Destroyed after print)
     
-class Test3 {
+public class Test3 {
     public static void main(String[]args){
         if (true){
             int x=10;
