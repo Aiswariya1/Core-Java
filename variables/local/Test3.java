@@ -12,7 +12,7 @@ public class Test3 {
 //Case-2  (Destroyed before print)
 
 /* 
-  class Test4 {
+  public class Test4 {
      public static void main(String[]args){
         if (true){
             int x=10;
