@@ -1,6 +1,6 @@
  // In between local and static variable priority always goes to local variable 
 
- class Test1 {
+public  class Test1 {
     static int num=10;
     public static void main(String[]args){
         int num=20;
