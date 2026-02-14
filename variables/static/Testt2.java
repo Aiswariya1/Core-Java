@@ -1,6 +1,7 @@
     // Access it in 3 common ways:-
 
     public class Testt2 {
+      
     static int y=10;
     public static void main(String[]args){
 
