@@ -1,6 +1,6 @@
 // program
 
-class Explicit{
+public class Explicit{
     public static void main(String[]args){
        int x=10;
        //explicit type casting
