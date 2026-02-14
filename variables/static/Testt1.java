@@ -1,6 +1,7 @@
    // it shares same copy to every objects.
 
    public class Testt1 {
+    
       static int x = 10;
     public static void main(String[]args){
         
