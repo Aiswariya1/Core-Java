@@ -12,7 +12,7 @@ public static void main(String[] args) {
         sum = sum + rem;
     }
 
-   System.out.println(sum);
+   System.out.println(sum); //14
 
    }  
 }
