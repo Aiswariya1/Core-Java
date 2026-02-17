@@ -10,7 +10,7 @@ public class ReverseANumber {
             int rem= num % 10;
              reverse = reverse * 10 + rem;
         }
-        System.out.println(reverse);
+        System.out.println(reverse); //4321
     }
     
 }
