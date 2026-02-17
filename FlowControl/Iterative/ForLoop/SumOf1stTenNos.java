@@ -1,4 +1,4 @@
-//WAP to
+//WAP to find the sum of 1st ten numbers?
 
 public class SumOf1stTenNos {
  public static void main(String[] args) {
