@@ -9,7 +9,7 @@ public class StudentPercentage{
             System.out.println("A+");
         }
         else if(per <= 90 && per >= 81){
-            System.out.println("A");
+            System.out.println("A"); //A
         }
         else if(per <= 80 && per >= 71){
             System.out.println("B+");
