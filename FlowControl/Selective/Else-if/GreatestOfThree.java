@@ -14,7 +14,7 @@
             System.out.println("Greatest number is " + b);
         }
         else {
-            System.out.println("Greatest number is " + c);
+            System.out.println("Greatest number is " + c); //Greatest number is 25
         }
     }
 }
