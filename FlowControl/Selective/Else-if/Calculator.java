@@ -8,7 +8,7 @@ public class Calculator {
         char op = '+';
 
         if(op == '+'){
-            System.out.println("Sum is" + (x+y));
+            System.out.println("Sum is" + (x+y)); //sum is 30
         }
             else if(op == '-'){
                 System.out.println("Sub is" + (x-y));
@@ -19,7 +19,7 @@ public class Calculator {
             }
 
             else{
-                 System.out.println("Invalid op");
+                 System.out.println("Invalid op"); 
            }
 
          }
