@@ -9,7 +9,7 @@ public class PosNegNo {
             System.out.println("Positive Number");
         }
         else if (num < 0) {
-            System.out.println("Negative Number");
+            System.out.println("Negative Number"); //Negative Number
         }
         else {
             System.out.println("Zero");
