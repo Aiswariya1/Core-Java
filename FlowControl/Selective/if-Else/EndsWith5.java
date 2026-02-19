@@ -5,7 +5,7 @@ public class EndsWith5 {
 
         int num = 25;
         if(num % 10 == 5){
-            System.out.println("Ends With 5");
+            System.out.println("Ends With 5"); //Ends With 5
         }
         else{
             System.out.println("Not ends With 5");
