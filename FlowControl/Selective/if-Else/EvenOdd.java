@@ -5,7 +5,7 @@ public class EvenOdd{
         int num = 10;
 
         if(num % 2 == 0){
-            System.out.println("Even Number");
+            System.out.println("Even Number"); //Even Number
         }
         else{
            System.out.println("Odd Number");
