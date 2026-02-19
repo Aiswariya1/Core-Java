@@ -6,7 +6,7 @@ public class VotingEligibility {
         int age = 20;
 
          if(age>=18){
-            System.out.println("Eligible for voting");
+            System.out.println("Eligible for voting"); //Eligible for voting
          } else {
             System.out.println(" Not eligible for voting");
          }
