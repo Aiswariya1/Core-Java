@@ -6,7 +6,7 @@ public class BuzzNo {
         
         int num = 27;
         if(num % 10 == 7 || num % 7 == 0  ){
-             System.out.println("Divisible by 7 or ends with 7");
+             System.out.println("Divisible by 7 or ends with 7"); //Divisible by 7 or ends with 7
         }
         else{
             System.out.println(" Not divisible by 7 or ends with 7");
