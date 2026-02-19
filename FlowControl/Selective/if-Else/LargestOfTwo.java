@@ -9,7 +9,7 @@ public class LargestOfTwo {
     if(a > b){
         System.out.println("Largest Number is" + a);
     } else{
-        System.out.println("Largest Number is" + b);
+        System.out.println("Largest Number is" + b); //Largest Number is82
     }
   }  
 }
