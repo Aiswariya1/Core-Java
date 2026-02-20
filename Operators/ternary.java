@@ -4,8 +4,7 @@
 // False- Statement 2.
 
 //ex-
-
-public class Ternary{
+ class Ternary{
     public static void main(String[]args){
         int a = 10;
         int b = 20;
