@@ -1,5 +1,5 @@
 // WAP to implement a simple calculator using else-if ladder?
- class Calculator {
+public class Calculator {
     public static void main(String[] args) {
 
         int x = 10;
