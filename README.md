@@ -107,7 +107,7 @@ Why Learn Core Java?
 
 Builds a strong foundation for Advanced Java, Spring, and Android development
 
-Improves problem-solving and logical thinking
+Improves problem-solving and logical thinking.
 
 Enables development of platform-independent applications
 
