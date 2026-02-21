@@ -14,7 +14,7 @@ Core Java refers to the fundamental concepts of Java programming used to build r
 
 - Type-Casting (implicit & explicit)
 
-- Variables (Instance/ Non-static, Static, Local )
+- Variables (Instance/ Non-static, Static, Local)
           
 - Operators <br>
 (i.Unary-Increment(pre & post), Decrement(pre & post))<br>
