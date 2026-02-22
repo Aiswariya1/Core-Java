@@ -1,6 +1,7 @@
 // WAP to find the greatest of three numbers using the else-if ladder?
 
     public class GreatestOfThree {
+        
     public static void main(String[] args) {
 
         int a = 10;
