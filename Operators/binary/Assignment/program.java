@@ -2,6 +2,7 @@
  //example of chained + compound assingnment.
 
 class ChainedAndCompound{
+   
     public static void main(String[]args){
 
     int a,b,c,d;
