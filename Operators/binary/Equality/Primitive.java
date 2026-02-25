@@ -14,7 +14,7 @@
 //ex-2
 
 class Primitive2{
-    
+
     public static void main(String[]args){
         double d1 =1.5;
         double d2 =1.5;
@@ -36,6 +36,7 @@ class Primitive3{
 
 //ex-4
 class Primitive4{
+    
     public static void main(String[] args) {
         char ch1 ='a';
         char ch2 ='A';
