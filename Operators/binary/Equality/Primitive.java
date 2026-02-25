@@ -1,5 +1,5 @@
  class Primitive{
-    
+
     public static void main(String[]args){
         int x =10;
         int y =20;
@@ -14,6 +14,7 @@
 //ex-2
 
 class Primitive2{
+    
     public static void main(String[]args){
         double d1 =1.5;
         double d2 =1.5;
