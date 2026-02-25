@@ -1,4 +1,5 @@
  class Primitive{
+    
     public static void main(String[]args){
         int x =10;
         int y =20;
@@ -24,7 +25,7 @@ class Primitive2{
 //ex-3
 
 class Primitive3{
-    
+
     public static void main(String[] args) {
         boolean b1 = true;
         boolean b2 = false;
