@@ -1,7 +1,7 @@
 //program-01
 
 public class Arithmetic{
-    
+
     public static void main(String[] args) {
         int x=10;
         int y=20;
@@ -15,6 +15,7 @@ public class Arithmetic{
 
 //program-02
 class Arithmetic1{
+    
     public static void main(String[] args) { 
         byte b1=127;
         byte b=1;
