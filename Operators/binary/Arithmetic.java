@@ -1,6 +1,7 @@
 //program-01
 
 public class Arithmetic{
+    
     public static void main(String[] args) {
         int x=10;
         int y=20;
@@ -20,4 +21,3 @@ class Arithmetic1{
         System.out.println(b1+b); //128 (out of range stored in int)
     }
 }
-
