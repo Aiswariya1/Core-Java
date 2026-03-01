@@ -4,7 +4,7 @@
  public class LogicalAnd{
 
     public static void main(String[] args) {
-        
+
         int a =10;
         int b =20;
     
@@ -23,6 +23,7 @@
  class LogicalOr {
 
     public static void main(String[] args) {
+        
         int a =10;
         int b =5;
     
