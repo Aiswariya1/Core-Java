@@ -19,6 +19,7 @@ public class BitwiseAnd{
 //program
 
 class BitwiseOr{
+
     public static void main(String[] args) {
         System.out.println(true | true); //true
         System.out.println(true | false); // true
