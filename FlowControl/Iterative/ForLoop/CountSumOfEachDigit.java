@@ -1,7 +1,6 @@
 // WAP to count the sum of each digit of a number?
 
 public class CountSumOfEachDigit {
-
 public static void main(String[] args) {
     
     int sum = 0;
