@@ -10,7 +10,6 @@ public static void main(String[] args) {
         rem = num % 10;
         sum = sum + rem;
     }
-
    System.out.println(sum); //14
    }  
 }
