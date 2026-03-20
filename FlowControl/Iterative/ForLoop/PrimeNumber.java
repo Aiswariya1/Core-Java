@@ -1,4 +1,4 @@
-// Write a java program to find the number is a 
+// Write a java program to find the number is a prime number or not? 
 
 import java.util.Scanner;
 public class PrimeNumber {
