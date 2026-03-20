@@ -1,4 +1,4 @@
-//
+// Write a java program to find 
 
 import java.util.Scanner;
 public class PrimeNumber {
