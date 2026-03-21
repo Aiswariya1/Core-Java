@@ -1,4 +1,5 @@
 // Write a java program find prime no in range?
+
     import java.util.Scanner;
 public class PrimeNoInRange {
     public static void main(String[] args) {
