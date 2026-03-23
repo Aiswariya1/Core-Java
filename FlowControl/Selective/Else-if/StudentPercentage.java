@@ -5,7 +5,6 @@ public class StudentPercentage{
     public static void main(String[]args){
 
         int per=85;
-
         if(per <= 100 && per >= 91){
             System.out.println("A+");
         }
