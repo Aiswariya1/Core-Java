@@ -9,6 +9,5 @@ public class ReverseANumber {
              reverse = reverse * 10 + rem;
         }
         System.out.println(reverse); //4321
-    }
-    
+    }  
 }
