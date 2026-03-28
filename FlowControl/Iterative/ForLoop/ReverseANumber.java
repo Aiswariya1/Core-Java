@@ -1,4 +1,4 @@
-//WAP to reverse a number?
+//Write a  java program to reverse a number?
 
 public class ReverseANumber {
 
