@@ -9,5 +9,6 @@ public class SumOf1stTenNos {
         sum = sum+i;
     }
     System.out.println(sum); //55
-  }   
+  }  
+   
 }
