@@ -17,5 +17,6 @@ if(count==2){
     System.out.println(arr[i]);
            }
         }
+   
     }
 }
