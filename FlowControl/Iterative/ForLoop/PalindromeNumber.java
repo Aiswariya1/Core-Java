@@ -15,8 +15,7 @@ public class PalindromeNumber {
     else{
         System.out.println(" Not a Palindrome Number");
      }
-  }  
+   } 
 }
-
 
 
