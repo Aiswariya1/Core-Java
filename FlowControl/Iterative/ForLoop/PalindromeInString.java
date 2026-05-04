@@ -12,7 +12,7 @@ public class PalindromeInString {
             System.out.println("Palindrome String  ");
         }
         else{
-            
+            System.out.println(" Not a Palindrome String  ");
         }
     }
 }
