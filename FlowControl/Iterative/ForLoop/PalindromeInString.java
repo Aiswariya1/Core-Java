@@ -9,7 +9,8 @@ public class PalindromeInString {
             rev= rev+str.charAt(i);
         }
         if(str.equals(rev)){
-            
+            System.out.println("Palindrome String  ");
         }
+        
     }
 }
