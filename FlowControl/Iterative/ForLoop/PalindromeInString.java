@@ -11,6 +11,8 @@ public class PalindromeInString {
         if(str.equals(rev)){
             System.out.println("Palindrome String  ");
         }
-        
+        else{
+            
+        }
     }
 }
