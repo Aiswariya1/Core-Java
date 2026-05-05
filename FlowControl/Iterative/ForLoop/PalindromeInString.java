@@ -2,7 +2,7 @@ public class PalindromeInString {
     
      public static void main(String[] args) {
         
-        String str="M";
+        String str="Mad";
         str=str.toLowerCase();
         String rev="";
 
