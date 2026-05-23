@@ -11,4 +11,5 @@ public class EndsWith5 {
             System.out.println("Not ends With 5");
         }
     }
+    
 }
